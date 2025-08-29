@@ -5,10 +5,6 @@
 
 **Transform your resource-intensive models into lean, mean, inference machines.** Bytomic empowers you to compress your AI models into blazing-fast 8-bit and 4-bit versions without sacrificing accuracy. Deploy on edge devices, accelerate inference, and conquer resource limitations.
 
-[![Project Status](https://img.shields.io/badge/status-alpha-red)](https://your-project-status-url)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Python Versions](https://img.shields.io/badge/python-3.7+-blue)](https://www.python.org/downloads/)
-
 ## Key Benefits
 
 *   **Extreme Compression:** Achieve up to 75% reduction in model size, enabling deployment on resource-constrained devices.
@@ -80,16 +76,6 @@
 *   **Cross-Platform Hardware Acceleration:** Optimizes compressed models for deployment across various hardware platforms, including CPUs, GPUs, and specialized edge devices.
 *   **Intuitive API:** Offers a simple and user-friendly API for seamless integration into existing machine learning workflows, reducing development time.
 *   **Comprehensive Documentation & Examples:** Includes detailed documentation and practical examples to facilitate quick adoption and effective utilization of Bytomic.
-
-## Showcase Your Results
-
-*   **Benchmark Results:** Include benchmark results demonstrating the performance gains achieved with Bytomic on various models and hardware.
-*   **Example Notebooks:** Provide example notebooks showcasing how to use Bytomic for different use cases and model architectures.
-*   **Real-World Applications:** Highlight real-world applications where Bytomic has been successfully deployed to solve challenging problems.
-
-## Contributing
-
-We welcome contributions from the community! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details on how to get involved.
 
 ## License
 
