@@ -56,16 +56,15 @@
     ```python
     from main import load_model
 
-    # Load the compressed model
     compressed_model = load_model("path/to/your/compressed/model.pth") # Replace with the actual path
 
-    # Prepare input data
+    
     input_data = "This is some example text."
 
-    # Use the compressed model for inference
+    
     output = compressed_model(input_data)
 
-    # Print the output
+  
     print(output)
     ```
 
